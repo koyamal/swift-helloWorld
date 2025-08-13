@@ -1,10 +1,3 @@
-//
-//  HelloWorldUITests.swift
-//  HelloWorldUITests
-//
-//  Created by 丸山功貴 on 2025/08/13.
-//
-
 import XCTest
 
 final class HelloWorldUITests: XCTestCase {
