@@ -7,6 +7,9 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("This is Swift App")
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
         }
         .padding()
     }
