@@ -8,6 +8,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("This is Swift App")
             Text("Hello, World")
+            Text("Hello, World")
         }
         .padding()
     }
