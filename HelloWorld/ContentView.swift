@@ -15,6 +15,7 @@ struct ContentView: View {
             Text("This is Swift App")
             Text("Hello, World")
             Text("Hello, World")
+            Text("Hello, World")
         }
         .padding()
     }
