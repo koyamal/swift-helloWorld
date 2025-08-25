@@ -13,6 +13,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("This is Swift App")
+            Text("This is Swift App")
         }
         .padding()
     }
